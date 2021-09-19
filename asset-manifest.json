@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/sedaweb/static/css/main.a617e044.chunk.css",
+    "main.js": "/sedaweb/static/js/main.72ccf930.chunk.js",
+    "main.js.map": "/sedaweb/static/js/main.72ccf930.chunk.js.map",
+    "runtime-main.js": "/sedaweb/static/js/runtime-main.e18174b8.js",
+    "runtime-main.js.map": "/sedaweb/static/js/runtime-main.e18174b8.js.map",
+    "static/js/2.6a30f148.chunk.js": "/sedaweb/static/js/2.6a30f148.chunk.js",
+    "static/js/2.6a30f148.chunk.js.map": "/sedaweb/static/js/2.6a30f148.chunk.js.map",
+    "index.html": "/sedaweb/index.html",
+    "static/css/main.a617e044.chunk.css.map": "/sedaweb/static/css/main.a617e044.chunk.css.map",
+    "static/js/2.6a30f148.chunk.js.LICENSE.txt": "/sedaweb/static/js/2.6a30f148.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e18174b8.js",
+    "static/js/2.6a30f148.chunk.js",
+    "static/css/main.a617e044.chunk.css",
+    "static/js/main.72ccf930.chunk.js"
+  ]
+}
